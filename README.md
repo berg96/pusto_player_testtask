@@ -1,0 +1,1 @@
+# pusto_player_testtask
